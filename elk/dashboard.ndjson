@@ -1,0 +1,2 @@
+{"attributes":{"title":"orders-*","timeFieldName":"@timestamp"},"id":"orders-dv","type":"index-pattern"}
+{"attributes":{"title":"Errors by order","visState":"{\"type\":\"table\"}","kibanaSavedObjectMeta":{"searchSourceJSON":"{\"query\":{\"query\":\"level:ERROR\",\"language\":\"kuery\"}}"}},"id":"orders-errors","type":"visualization"}
